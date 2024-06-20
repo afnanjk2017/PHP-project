@@ -1,0 +1,14 @@
+
+
+{
+     
+    "name": "vendor/db_connection",   
+    "description": "any",
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+
+}
